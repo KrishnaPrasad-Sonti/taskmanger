@@ -1,40 +1,7 @@
-# Java and IDE-specific files (from your local changes)
-HELP.md
+# Java and IDE-specific files
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
-### IntelliJ IDEA ###
-.idea
-*.iws
+.mvn/wrapper/maven-wrapper.jar
+.idea/
+.vscode/
 *.iml
 *.ipr
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
-
-### VS Code ###
-.vscode/
-
-# React and Node-specific files (from the remote)
-node_modules/
-dist/
-.env
-
