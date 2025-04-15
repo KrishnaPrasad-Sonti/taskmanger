@@ -1,3 +1,4 @@
+# Java and IDE-specific files (from your local changes)
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -31,3 +32,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# React and Node-specific files (from the remote)
+node_modules/
+dist/
+.env
+
