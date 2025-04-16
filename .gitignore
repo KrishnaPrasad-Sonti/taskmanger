@@ -1,7 +1,0 @@
-# Java and IDE-specific files
-target/
-.mvn/wrapper/maven-wrapper.jar
-.idea/
-.vscode/
-*.iml
-*.ipr
